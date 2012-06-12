@@ -10,6 +10,9 @@ Requirements
 ============
 Requires Python 3 and a brain
 
+Optional:
+pep8
+
 Authors
 =======
 
