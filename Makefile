@@ -1,4 +1,5 @@
 #Makefile for evolution of novel colicins
+#This is a silly silly makefile
 .PHONY: clean
 .PHONY: pep8
 .PHONY: test
